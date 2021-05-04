@@ -1,0 +1,30 @@
+#imagenMario{
+	transition: all 0.8s;
+	height: 200px;
+	float: left;
+	margin-right: 5px;
+}
+#imagenMario:hover{
+	transform: scale(1.3);
+}
+body{
+	font-family: "Comic Sans MS";
+	background-image: url(FondoQuimica.jpg);
+}
+div{
+	background: #33AFFF;
+	margin: 50px;
+	padding: 15px;
+}
+h1{
+	text-align: center;
+}
+#Encabezado{
+	padding: 0px; 
+}
+#imagenes > img{
+	height: 260px;
+}
+#imagenes{
+	text-align: center;
+}
